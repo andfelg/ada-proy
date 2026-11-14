@@ -1,3 +1,13 @@
+from classes import Figura
 
-def haveRect(fig):
-    return
+
+def isRect(puntos):
+
+    # TODO: Implementar la logica para determinar si los puntos forman un rectángulo
+
+
+    fig = Figura("rectángulo", puntos)
+
+    rectangulos: Figura = []
+
+    return rectangulos
