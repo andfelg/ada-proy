@@ -1,0 +1,3 @@
+
+def haveRect(fig):
+    return
